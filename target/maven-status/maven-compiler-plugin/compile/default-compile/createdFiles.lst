@@ -1,0 +1,5 @@
+WordStatisticsReducer.class
+WordStatisticsMapper.class
+WordStatisticsDriver.class
+WordStatisticsWritable.class
+WordStatisticsCombiner.class
